@@ -3,13 +3,12 @@
 <h1 align="center">Welcome to Omega 2020</h1>
 <p align="center">The online sudoku Web iOS & Android app.</p>
 
-<p align="center">
+<div align="center">
 
-<a aria-label="Omega-Expo is free to use" href="https://github.com/JessicaDosseh/Omega-Expo/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" />
-  </a>
+![License](https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12)
+![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
-</p>
+</div>
 <br>
 
 ---
