@@ -10,7 +10,6 @@
 ![npm](https://img.shields.io/npm/v/npm?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/JessicaDosseh/Omega-Expo?style=for-the-badge)
 ![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/eslint-config/dev/eslint?color=blueviolet&style=for-the-badge)
-![Website](https://img.shields.io/website?color=green&style=for-the-badge&url=https%3A%2F%2Fomega2020.netlify.app%2F)
 
 
 </div>
@@ -19,7 +18,7 @@
 
 ---
 
-:desktop_computer: Deployed URL: coming soon 
+:desktop_computer: Deployed URL: ![Website](https://img.shields.io/website?color=green&style=for-the-badge&url=https%3A%2F%2Fomega2020.netlify.app%2F) 
 
 :iphone: App store and Google play URL: coming soon
 
