@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { add } from '../common/index.js';
+import { add } from '../Omega-Web-App/packages/common/index.js';
 
 export default function App() {
 	return (
