@@ -17,7 +17,7 @@
 
 </div>
 
-<p> 🛠 This is home to [Omega 2020](#)  an online sudoku app geared towards sudoku lovers and people who want to improve their sudoku skills. Learn how to play, upload your own sudoku games, and compete with friends :) </p>
+<p> 🛠 This is home to [Omega 2020](https://omega2020.netlify.app/)  an online sudoku app geared towards sudoku lovers and people who want to improve their sudoku skills. Learn how to play, upload your own sudoku games, and compete with friends :) </p>
 
 <br>
 
@@ -51,9 +51,13 @@ This repo hosts:
 
 >  📂 For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION)
 >> [Project Vision Document - (PVD)](https://github.com/JessicaDosseh/Omega-Web-App/blob/master/DOCUMENTATION/0.0.1.DOCS/PVD.md)
+
 >> [Usage](#)
+
 >> [Design Specification](#)
+
 >> [Trello Board](https://trello.com/b/NyKQYmbB/labs-pt11-omega2020)
+
 >> [Product Canvas](https://www.notion.so/Omega2020-5f51e1cc70a64da5a15e222acabdc463)
 
 - [About Project](#Welcome-to-Omega-2020) 
@@ -61,6 +65,9 @@ This repo hosts:
     - [Project Set-Up](#project-set-up)
     - [How to run on multiple platforms](#how-to-run-on-multiple-platforms) 
 - [Development Info](#development-info) 
+- [Active Team](#Active-Team)
+- [Contributors](#Contributors)
+- [How to Contribute](#How-to-Contribute)
  
 
 ---
