@@ -50,7 +50,7 @@
     - [Project Set-Up](#project-set-up)
     - [How to run on multiple platforms](#how-to-run-on-multiple-platforms) 
 - [Development Info](#development-info) 
-- [Active Team](#Active-Team)
+- [Tech Stack](#Tech-Stack)
 - [Contributors](#Contributors)
 - [How to Contribute](#How-to-Contribute)
 
@@ -143,21 +143,36 @@ This repo hosts:
 
 ---
 
-# Active Team
-
-| [Name](https://github.com/#)  |  [Name](https://github.com/#)  |   [Name](https://github.com/#)  | [Name](https://github.com/#)  |  [Name](https://github.com/#) | [Name](https://github.com/#)  | [Name](https://github.com/#)  |
-| :----------------: |  :----------------: | :----------------: |  :----------------: |  :----------------: |  :----------------: |  :----------------: |
-| [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  |  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  |
-
-
----
-
 ## Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](#)].
-🚫 Insert screenshot(s) here.
+🙌 This project exists thanks to all the people who contribute. [[Contribute](#)].
+
+> TL
+
+| [Marvin Davila](https://github.com/#)  |
+| :-------: |
+| [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |
+| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  |
+
+
+> WEB
+
+|  [Jessica Dosseh](https://github.com/JessicaDosseh)  |   [Alexis Anderson](https://github.com/#)  | [Carlos Turcios](https://github.com/#)  |  [Tara Sherman](https://github.com/#) | [Vincent Adeniji](https://github.com/#)  | 
+|  :-------: | :-------: |  :-------: |  :-------: |  :-------: |  
+|  [<img src="https://avatars2.githubusercontent.com/u/24831198?s=460&u=4e2d7a78a8d4ba798589a59075bb98cd1b0e7e26&v=4" width = "100" border-radius="50%"/>](https://github.com/JessicaDosseh) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  
+|  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JessicaDosseh)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jessica-dosseh-452a10173/)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | 
+
+
+> DS
+
+|  [Name](https://github.com/#)  |    [Name](https://github.com/#)  |  [Name](https://github.com/#)  |   [Name](https://github.com/#) |  [Name](https://github.com/#)  | 
+|  :-------: | :-------: |  :-------: |  :-------: |  :-------: |  
+|  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  [<img src="#" width = "100" border-radius="50%"/>](https://github.com/#) |  
+|  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/#)  | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](#)  | 
+
 
 ---
 
