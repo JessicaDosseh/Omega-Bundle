@@ -17,7 +17,7 @@
 
 </div>
 
-<p> 🛠 This is home to [Omega 2020](https://omega2020.netlify.app/)  an online sudoku app geared towards sudoku lovers and people who want to improve their sudoku skills. Learn how to play, upload your own sudoku games, and compete with friends :) </p>
+🛠 This is home to [Omega 2020][https://omega2020.netlify.app/]  an online sudoku app geared towards sudoku lovers and people who want to improve their sudoku skills. Learn how to play, upload your own sudoku games, and compete with friends :)
 
 <br>
 
