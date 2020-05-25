@@ -82,26 +82,26 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 ## How to run on multiple platforms
 
-> To run your expo workspace 
+To run your expo workspace
 - [ ] In the root folder: 
 
->> `expo start`
+>> expo start
 To run the app with live reloading, choose one of:
 
-  • Scan the QR code with the Expo app (Android) or the Camera app (iOS).
-  • Press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
-  • Press `e` to send a link to your phone with email.
-  • Press `s` to sign in and enable more options.
+    - [ ] Scan the QR code with the Expo app (Android) or the Camera app (iOS).
+    - [ ] Press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
+    - [ ] Press `e` to send a link to your phone with email.
+    - [ ] Press `s` to sign in and enable more options.
 
 >> yarn commands 
 To run the app with live reloading, choose one of:
 
-- [ ] `yarn web`
-- [ ] `yarn ios`
-- [ ] `yarn android`
+    - [ ] `yarn web`
+    - [ ] `yarn ios`
+    - [ ] `yarn android`
 
 
-> To run your web workspace
+To run your web workspace
 - [ ] In `Omega-Web-App/packages/web` run `yarn start` to run project
 
 ---
