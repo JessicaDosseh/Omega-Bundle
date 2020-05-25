@@ -76,6 +76,10 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 - [ ] Run `git submodule update` to pull submodule files into your workspace. 
 - [ ] CD into the submodule and run `git checkout master`
 - [ ] Run `git pull` to make sure all your files are up to date. 
+- [ ] CD into `packages/web`
+- [ ] Run `yarn` to install node_module.
+- [ ] Run `yarn start` to start.
+
 > For more information on [submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 
 :rocket:  DO your magic! 
