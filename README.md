@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/omega-logo.png" /></h1>
+<h1 align="center"><img src="assets/omega-logo-bundle.png" /></h1>
 
 <h1 align="center">Welcome to Omega 2020</h1>
 <p align="center">The online sudoku Web iOS & Android App.</p>
