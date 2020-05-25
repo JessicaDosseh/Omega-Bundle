@@ -21,14 +21,14 @@
 
 ---
 
-:desktop_computer: Deployed URL: ------------------ ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F)
+:desktop_computer: Deployed URL: ------------------ ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F) [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](#)
 
 :iphone: App store and Google play URL: coming soon
 
 
 ---
 
-## :desktop_computer:  [Web Repo](https://github.com/JessicaDosseh/Omega-Web-App.git) [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](#)
+## :desktop_computer:  [Web Repo](https://github.com/JessicaDosseh/Omega-Web-App.git)
 
 ## :iphone: [Web/iOS/Android Repo Bundle](https://github.com/JessicaDosseh/Omega-Expo.git) 
 
