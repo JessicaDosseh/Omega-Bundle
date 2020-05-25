@@ -131,7 +131,7 @@ This repo hosts:
 
 # Development Info
 
-## Tech Stack
+## [Tech Stack](#)
 
 | FrontEnd  | BackEnd | Dependencies |
 | ------ | ------ | ------ |
