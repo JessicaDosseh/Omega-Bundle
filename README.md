@@ -40,13 +40,15 @@
 
 ## INDEX
 
+> For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION)
+>> [Project Vision Document - (PVD)](https://github.com/JessicaDosseh/Omega-Web-App/blob/master/DOCUMENTATION/0.0.1.DOCS/PVD.md)
+
 - [About Project](#about-omega-2020) 
 - [Getting Started](#getting-started) 
     - [Project Set-Up](#project-set-up)
     - [How to run on multiple platforms](#how-to-run-on-multiple-platforms) 
 - [Development Info](#development-info) 
-
-> For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION) 
+ 
 
 ---
 
