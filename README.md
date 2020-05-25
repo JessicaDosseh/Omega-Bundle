@@ -131,6 +131,16 @@ This repo hosts:
 
 # Development Info
 
+## Tech Stack
+
+| FrontEnd  | BackEnd | Dependencies |
+| ------ | ------ | ------ |
+| React | NodeJS | Jest |
+| React-Native | Postgres | Material UI |
+| Expo | Express | bcrypt |
+| Redux / Context API | SQL | jsonwebtoken |
+| Axios | Knex | Find in pakcage.json files |
+
 ---
 
 # Active Team
