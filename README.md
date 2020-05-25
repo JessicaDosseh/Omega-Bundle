@@ -82,8 +82,8 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 ## How to run on multiple platforms
 
-To run your expo workspace
-- [ ] In the root folder: 
+    ## To run your expo workspace
+    - [ ] In the root folder: 
 
 >> expo start
 To run the app with live reloading, choose one of:
@@ -101,8 +101,8 @@ To run the app with live reloading, choose one of:
     - [ ] `yarn android`
 
 
-To run your web workspace
-- [ ] In `Omega-Web-App/packages/web` run `yarn start` to run project
+    ## To run your web workspace
+    - [ ] In `Omega-Web-App/packages/web` run `yarn start` to run project
 
 ---
 
