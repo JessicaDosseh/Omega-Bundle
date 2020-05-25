@@ -40,7 +40,7 @@
 
 ## INDEX
 
-> For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION)
+>  📂 For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION)
 >> [Project Vision Document - (PVD)](https://github.com/JessicaDosseh/Omega-Web-App/blob/master/DOCUMENTATION/0.0.1.DOCS/PVD.md)
 
 - [About Project](#about-omega-2020) 
@@ -87,18 +87,18 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 >> expo start to run the app with live reloading
 
-    🔘 First run `expo start` then choose one of:
-    -------------------------------------------------------------
-    🔘  Scan the QR code with the Expo app (Android) or the Camera app (iOS).
-    🔘  Press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
-    🔘  Press `e` to send a link to your phone with email.
-    🔘  Press `s` to sign in and enable more options.
+     🔸 First run `expo start` then choose one of:
+      -------------------------------------------------------------
+     🔸  Scan the QR code with the Expo app (Android) or the Camera app (iOS).
+     🔸  Press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
+     🔸  Press `e` to send a link to your phone with email.
+     🔸  Press `s` to sign in and enable more options.
 
 >> yarn commands to run the app with live reloading, choose one of:
 
-    🔘 `yarn web`
-    🔘 `yarn ios`
-    🔘 `yarn android`
+     🔸 `yarn web`
+     🔸 `yarn ios`
+     🔸 `yarn android`
 
 
 ## ——— To run your web workspace
