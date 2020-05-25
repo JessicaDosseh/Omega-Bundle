@@ -8,7 +8,7 @@
 ![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/npm?color=orange&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/JessicaDosseh/Omega-Expo?color=yellow&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/JessicaDosseh/Omega-Bundle?color=yellow&style=for-the-badge)
 ![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/eslint-config/dev/eslint?color=blueviolet&style=for-the-badge)
 
 ![React](https://img.shields.io/badge/react-v16.12.0-blue.svg?style=for-the-badge)
@@ -23,7 +23,7 @@
 
 ---
 
-:desktop_computer: Deployed URL: ------------------ ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F) [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](#)
+:desktop_computer: Deployed URL: _________________ ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F) [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](#)
 
 :iphone: App store and Google play URL: coming soon
 
@@ -32,7 +32,7 @@
 
 ## :desktop_computer:  [Web Repo](https://github.com/JessicaDosseh/Omega-Web-App.git)
 
-## :iphone: [Web/iOS/Android Repo Bundle](https://github.com/JessicaDosseh/Omega-Expo.git) 
+## :iphone: [Web/iOS/Android Repo Bundle](https://github.com/JessicaDosseh/Omega-Bundle.git) 
 
 ---
 
@@ -58,7 +58,7 @@ This repo hosts:
 - The [Omega 2020](#) frontend and server code
 - A Web, Web-App, iOS, & Android development environment 
 
->  📂 For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION)
+>  📂 For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Bundle/tree/master/DOCUMENTATION)
 >> [Project Vision Document - (PVD)](https://github.com/JessicaDosseh/Omega-Web-App/blob/master/DOCUMENTATION/0.0.1.DOCS/PVD.md)
 
 >> [Usage](#)
