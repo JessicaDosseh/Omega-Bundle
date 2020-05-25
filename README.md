@@ -18,7 +18,7 @@
 
 ---
 
-:desktop_computer: Deployed URL: ------------- ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F)
+:desktop_computer: Deployed URL: ------------------ ![Website](https://img.shields.io/website?color=green&style=flat-square&url=https%3A%2F%2Fomega2020.netlify.app%2F)
 
 :iphone: App store and Google play URL: coming soon
 
@@ -43,7 +43,7 @@
     - [How to run on multiple platforms](#how-to-run-on-multiple-platforms) 
 - [Development Info](#development-info) 
 
-- For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION) 
+> For more information, read through our [DOCUMENTATION](https://github.com/JessicaDosseh/Omega-Expo/tree/master/DOCUMENTATION) 
 
 ---
 
@@ -77,6 +77,8 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 ## How to run on multiple platforms
 
+
+---
 
 # Development Info
 
