@@ -63,14 +63,14 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 ## Project Set Up
 
-> To run your expo workspace 
+> To set up your expo workspace 
 - [ ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository in your terminal. 
 - [ ] Run `yarn` or `npm install`to install node_module.
 - [ ] Run `expo install`
 - [ ] Run `expo start` to start expo file. 
 
-> To run your web workspace 
+> To set up your web workspace 
 - [ ] CD into `Omega-Web-App`
 - [ ] Run `git submodule init` to initialize the submodule found in packages. 
 - [ ] Run `git submodule update` to pull submodule files into your workspace. 
@@ -82,6 +82,27 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 ## How to run on multiple platforms
 
+> To run your expo workspace 
+- [ ] In the root folder: 
+
+>> `expo start`
+To run the app with live reloading, choose one of:
+
+  • Scan the QR code with the Expo app (Android) or the Camera app (iOS).
+  • Press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
+  • Press `e` to send a link to your phone with email.
+  • Press `s` to sign in and enable more options.
+
+>> yarn commands 
+To run the app with live reloading, choose one of:
+
+- [ ] `yarn web`
+- [ ] `yarn ios`
+- [ ] `yarn android`
+
+
+> To run your web workspace
+- [ ] In `Omega-Web-App/packages/web` run `yarn start` to run project
 
 ---
 
