@@ -31,7 +31,7 @@
 
 ---
 
-## UX Prototyp
+## UX Prototype
 :star: Link coming soon
 
 <h1 align="center"><img src="assets/web-mobile-app.png" /></h1>
