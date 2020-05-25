@@ -1,12 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { add } from '../common/index.js';
+import NavBarWebAppSkeleton from './Omega-Web-App/packages/web/src/constants/Skeleton/NavBar/NavBar-web_app-skeleton';
 
 export default function App() {
 	return (
 		<View style={styles.container}>
-			<Text>Open up App.js to start working on your app!</Text>
-			<Text>{add(1, 2)}</Text>
+			<NavBarWebAppSkeleton />
+			<Text>Open up App.js to start working on your app! 🚀</Text>
 		</View>
 	);
 }
