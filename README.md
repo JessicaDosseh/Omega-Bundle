@@ -50,9 +50,9 @@
     - [Project Set-Up](#project-set-up)
     - [How to run on multiple platforms](#how-to-run-on-multiple-platforms) 
 - [Development Info](#development-info) 
-- [Tech Stack](#Tech-Stack)
-- [Contributors](#Contributors)
-- [How to Contribute](#How-to-Contribute)
+    - [Tech Stack](#Tech-Stack)
+    - [Contributors](#Contributors)
+    - [How to Contribute](#How-to-Contribute)
 
 This repo hosts:
 - The [Omega 2020](#) frontend and server code
