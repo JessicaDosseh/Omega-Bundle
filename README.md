@@ -86,6 +86,10 @@ Learn how to play, upload your own sudoku games, and compete with friends :)
 
 :rocket:  DO your magic! 
 
+
+> Git flow cheat sheet
+    - [ ] Push your work to your branch: `git add .` | `git commit -m '...'` | `git push origin your-branch-name`
+
 ## How to run on multiple platforms
  
 ## ——— To run your expo workspace
