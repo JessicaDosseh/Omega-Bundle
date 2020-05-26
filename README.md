@@ -4,6 +4,9 @@
 <p align="center">The online sudoku Web iOS & Android App.</p>
 
 <div align="center">
+    
+<a href="https://codeclimate.com/github/JessicaDosseh/Omega-Bundle/maintainability"><img src="https://api.codeclimate.com/v1/badges/1b730532cd84ec4fec14/maintainability" /></a>
+<a href="https://codeclimate.com/github/JessicaDosseh/Omega-Bundle/test_coverage"><img src="https://api.codeclimate.com/v1/badges/1b730532cd84ec4fec14/test_coverage" /></a>
 
 ![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)
